@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.Collections
+﻿Imports System.Collections
 Imports System.Windows
 Imports DevExpress.Xpf.Charts
 
@@ -7,6 +6,7 @@ Namespace DXCharts_Runtime
 
 	Partial Public Class MainWindow
 		Inherits Window
+
 		Public Sub New()
 			InitializeComponent()
 		End Sub
